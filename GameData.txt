@@ -1,8 +1,5 @@
-GameData
-	{
 		game_id=67,
 		lives=1,
 		start_time=687697,
 		end_time=09800087,
 		game_type="Puzzle"
-	}
